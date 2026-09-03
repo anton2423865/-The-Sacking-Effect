@@ -1,0 +1,6 @@
+soccerdata>=1.9.1
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+pysyncon>=1.4
+jupyter
