@@ -12,7 +12,7 @@ It's the same family of technique economists use to evaluate real policies (the 
 
 ---
 
-## 🧠 Key terms, in plain English
+## 🧠 Key terms, in simpler terms
 
 A handful of technical words come up repeatedly below. Here's what they actually mean — no stats background required. Worth a quick read before diving into the rest of the page.
 
@@ -153,6 +153,4 @@ Synthetic control and its close cousin, difference-in-differences, are what mark
 
 ---
 
-## 📄 License
 
-MIT — see `LICENSE`.
