@@ -138,11 +138,11 @@ the-sacking-effect/
     synthetic_control.py
     placebo_tests.py
   notebooks/
-  output/          # charts + results tables (this README's chart lives here)
+  output/          # charts + results tables 
   README.md
   requirements.txt
   .gitignore
-  LICENSE
+
 ```
 
 ---
