@@ -1,0 +1,262 @@
+unit,time,outcome,date,league
+Arsenal,-12.0,3.0,2025-11-01,Premier League
+Arsenal,-11.0,2.6,2025-11-08,Premier League
+Arsenal,-10.0,2.6,2025-11-23,Premier League
+Arsenal,-9.0,2.2,2025-11-30,Premier League
+Arsenal,-8.0,2.2,2025-12-03,Premier League
+Arsenal,-7.0,1.6,2025-12-06,Premier League
+Arsenal,-6.0,2.0,2025-12-13,Premier League
+Arsenal,-5.0,2.0,2025-12-20,Premier League
+Arsenal,-4.0,2.4,2025-12-27,Premier League
+Arsenal,-3.0,2.4,2025-12-30,Premier League
+Arsenal,-2.0,3.0,2026-01-03,Premier League
+Arsenal,-1.0,2.6,2026-01-08,Premier League
+Arsenal,0.0,2.2,2026-01-17,Premier League
+Arsenal,1.0,1.6,2026-01-25,Premier League
+Arsenal,2.0,1.6,2026-01-31,Premier League
+Arsenal,3.0,1.6,2026-02-07,Premier League
+Arsenal,4.0,1.6,2026-02-12,Premier League
+Arsenal,5.0,1.6,2026-02-18,Premier League
+Arsenal,6.0,2.2,2026-02-22,Premier League
+Arsenal,7.0,2.2,2026-03-01,Premier League
+Arsenal,8.0,2.2,2026-03-04,Premier League
+Arsenal,9.0,2.6,2026-03-14,Premier League
+Arsenal,10.0,2.4,2026-04-11,Premier League
+Arsenal,11.0,1.8,2026-04-19,Premier League
+Arsenal,12.0,1.8,2026-04-25,Premier League
+Arsenal,13.0,1.8,2026-05-02,Premier League
+Arsenal,14.0,1.8,2026-05-10,Premier League
+Arsenal,15.0,2.4,2026-05-18,Premier League
+Arsenal,16.0,3.0,2026-05-24,Premier League
+Atlético Madrid,-12.0,2.2,2025-10-05,La Liga
+Atlético Madrid,-11.0,2.2,2025-10-18,La Liga
+Atlético Madrid,-10.0,2.6,2025-10-27,La Liga
+Atlético Madrid,-9.0,2.6,2025-11-01,La Liga
+Atlético Madrid,-8.0,2.6,2025-11-08,La Liga
+Atlético Madrid,-7.0,3.0,2025-11-23,La Liga
+Atlético Madrid,-6.0,3.0,2025-11-29,La Liga
+Atlético Madrid,-5.0,2.4,2025-12-02,La Liga
+Atlético Madrid,-4.0,1.8,2025-12-06,La Liga
+Atlético Madrid,-3.0,1.8,2025-12-13,La Liga
+Atlético Madrid,-2.0,1.8,2025-12-21,La Liga
+Atlético Madrid,-1.0,1.4,2026-01-04,La Liga
+Atlético Madrid,0.0,2.0,2026-01-18,La Liga
+Atlético Madrid,1.0,2.6,2026-01-25,La Liga
+Atlético Madrid,2.0,2.2,2026-01-31,La Liga
+Atlético Madrid,3.0,1.6,2026-02-08,La Liga
+Atlético Madrid,4.0,1.4,2026-02-15,La Liga
+Atlético Madrid,5.0,1.4,2026-02-21,La Liga
+Atlético Madrid,6.0,1.4,2026-02-28,La Liga
+Atlético Madrid,7.0,1.8,2026-03-07,La Liga
+Atlético Madrid,8.0,2.4,2026-03-14,La Liga
+Atlético Madrid,9.0,2.4,2026-03-22,La Liga
+Atlético Madrid,10.0,1.8,2026-04-04,La Liga
+Atlético Madrid,11.0,1.2,2026-04-11,La Liga
+Atlético Madrid,12.0,0.6,2026-04-22,La Liga
+Atlético Madrid,13.0,0.6,2026-04-25,La Liga
+Atlético Madrid,14.0,1.2,2026-05-02,La Liga
+Atlético Madrid,15.0,1.2,2026-05-09,La Liga
+Atlético Madrid,16.0,1.8,2026-05-12,La Liga
+Barcelona,-12.0,2.4,2025-10-05,La Liga
+Barcelona,-11.0,2.4,2025-10-18,La Liga
+Barcelona,-10.0,1.8,2025-10-26,La Liga
+Barcelona,-9.0,1.8,2025-11-02,La Liga
+Barcelona,-8.0,1.8,2025-11-09,La Liga
+Barcelona,-7.0,2.4,2025-11-22,La Liga
+Barcelona,-6.0,2.4,2025-11-29,La Liga
+Barcelona,-5.0,3.0,2025-12-02,La Liga
+Barcelona,-4.0,3.0,2025-12-06,La Liga
+Barcelona,-3.0,3.0,2025-12-13,La Liga
+Barcelona,-2.0,3.0,2025-12-21,La Liga
+Barcelona,-1.0,3.0,2026-01-03,La Liga
+Barcelona,0.0,2.4,2026-01-18,La Liga
+Barcelona,1.0,2.4,2026-01-25,La Liga
+Barcelona,2.0,2.4,2026-01-31,La Liga
+Barcelona,3.0,2.4,2026-02-07,La Liga
+Barcelona,4.0,1.8,2026-02-16,La Liga
+Barcelona,5.0,2.4,2026-02-22,La Liga
+Barcelona,6.0,2.4,2026-02-28,La Liga
+Barcelona,7.0,2.4,2026-03-07,La Liga
+Barcelona,8.0,2.4,2026-03-15,La Liga
+Barcelona,9.0,3.0,2026-03-22,La Liga
+Barcelona,10.0,3.0,2026-04-04,La Liga
+Barcelona,11.0,3.0,2026-04-11,La Liga
+Barcelona,12.0,3.0,2026-04-22,La Liga
+Barcelona,13.0,3.0,2026-04-25,La Liga
+Barcelona,14.0,3.0,2026-05-02,La Liga
+Barcelona,15.0,3.0,2026-05-10,La Liga
+Barcelona,16.0,2.4,2026-05-13,La Liga
+Bayern Munich,-12.0,3.0,2025-09-26,Bundesliga
+Bayern Munich,-11.0,3.0,2025-10-04,Bundesliga
+Bayern Munich,-10.0,3.0,2025-10-18,Bundesliga
+Bayern Munich,-9.0,3.0,2025-10-25,Bundesliga
+Bayern Munich,-8.0,3.0,2025-11-01,Bundesliga
+Bayern Munich,-7.0,2.6,2025-11-08,Bundesliga
+Bayern Munich,-6.0,2.6,2025-11-22,Bundesliga
+Bayern Munich,-5.0,2.6,2025-11-29,Bundesliga
+Bayern Munich,-4.0,2.6,2025-12-06,Bundesliga
+Bayern Munich,-3.0,2.2,2025-12-14,Bundesliga
+Bayern Munich,-2.0,2.6,2025-12-21,Bundesliga
+Bayern Munich,-1.0,2.6,2026-01-11,Bundesliga
+Bayern Munich,0.0,2.6,2026-01-14,Bundesliga
+Bayern Munich,1.0,2.6,2026-01-17,Bundesliga
+Bayern Munich,2.0,2.4,2026-01-24,Bundesliga
+Bayern Munich,3.0,2.0,2026-01-31,Bundesliga
+Bayern Munich,4.0,2.0,2026-02-08,Bundesliga
+Bayern Munich,5.0,2.0,2026-02-14,Bundesliga
+Bayern Munich,6.0,2.0,2026-02-21,Bundesliga
+Bayern Munich,7.0,2.6,2026-02-28,Bundesliga
+Bayern Munich,8.0,3.0,2026-03-06,Bundesliga
+Bayern Munich,9.0,2.6,2026-03-14,Bundesliga
+Bayern Munich,10.0,2.6,2026-03-21,Bundesliga
+Bayern Munich,11.0,2.6,2026-04-04,Bundesliga
+Bayern Munich,12.0,2.6,2026-04-11,Bundesliga
+Bayern Munich,13.0,2.6,2026-04-19,Bundesliga
+Bayern Munich,14.0,3.0,2026-04-25,Bundesliga
+Bayern Munich,15.0,2.6,2026-05-02,Bundesliga
+Bayern Munich,16.0,2.6,2026-05-09,Bundesliga
+Inter,-12.0,2.4,2025-10-25,Serie A
+Inter,-11.0,2.4,2025-10-29,Serie A
+Inter,-10.0,2.4,2025-11-02,Serie A
+Inter,-9.0,2.4,2025-11-09,Serie A
+Inter,-8.0,1.8,2025-11-23,Serie A
+Inter,-7.0,2.4,2025-11-30,Serie A
+Inter,-6.0,2.4,2025-12-06,Serie A
+Inter,-5.0,2.4,2025-12-14,Serie A
+Inter,-4.0,2.4,2025-12-28,Serie A
+Inter,-3.0,3.0,2026-01-04,Serie A
+Inter,-2.0,3.0,2026-01-07,Serie A
+Inter,-1.0,2.6,2026-01-11,Serie A
+Inter,0.0,2.6,2026-01-14,Serie A
+Inter,1.0,2.6,2026-01-17,Serie A
+Inter,2.0,2.6,2026-01-23,Serie A
+Inter,3.0,2.6,2026-02-01,Serie A
+Inter,4.0,3.0,2026-02-08,Serie A
+Inter,5.0,3.0,2026-02-14,Serie A
+Inter,6.0,3.0,2026-02-21,Serie A
+Inter,7.0,3.0,2026-02-28,Serie A
+Inter,8.0,2.4,2026-03-08,Serie A
+Inter,9.0,2.0,2026-03-14,Serie A
+Inter,10.0,1.6,2026-03-22,Serie A
+Inter,11.0,1.6,2026-04-05,Serie A
+Inter,12.0,1.6,2026-04-12,Serie A
+Inter,13.0,2.2,2026-04-17,Serie A
+Inter,14.0,2.2,2026-04-26,Serie A
+Inter,15.0,2.6,2026-05-03,Serie A
+Inter,16.0,2.6,2026-05-09,Serie A
+Liverpool,-12.0,0.6,2025-11-01,Premier League
+Liverpool,-11.0,0.6,2025-11-09,Premier League
+Liverpool,-10.0,0.6,2025-11-22,Premier League
+Liverpool,-9.0,1.2,2025-11-30,Premier League
+Liverpool,-8.0,1.4,2025-12-03,Premier League
+Liverpool,-7.0,1.0,2025-12-06,Premier League
+Liverpool,-6.0,1.6,2025-12-13,Premier League
+Liverpool,-5.0,2.2,2025-12-20,Premier League
+Liverpool,-4.0,2.2,2025-12-27,Premier League
+Liverpool,-3.0,2.2,2026-01-01,Premier League
+Liverpool,-2.0,2.2,2026-01-04,Premier League
+Liverpool,-1.0,1.8,2026-01-08,Premier League
+Liverpool,0.0,1.4,2026-01-17,Premier League
+Liverpool,1.0,0.8,2026-01-24,Premier League
+Liverpool,2.0,1.2,2026-01-31,Premier League
+Liverpool,3.0,1.0,2026-02-08,Premier League
+Liverpool,4.0,1.4,2026-02-11,Premier League
+Liverpool,5.0,1.8,2026-02-22,Premier League
+Liverpool,6.0,2.4,2026-02-28,Premier League
+Liverpool,7.0,1.8,2026-03-03,Premier League
+Liverpool,8.0,2.0,2026-03-15,Premier League
+Liverpool,9.0,1.4,2026-03-21,Premier League
+Liverpool,10.0,1.4,2026-04-11,Premier League
+Liverpool,11.0,1.4,2026-04-19,Premier League
+Liverpool,12.0,2.0,2026-04-25,Premier League
+Liverpool,13.0,1.8,2026-05-03,Premier League
+Liverpool,14.0,2.0,2026-05-09,Premier League
+Liverpool,15.0,1.4,2026-05-15,Premier League
+Liverpool,16.0,1.0,2026-05-24,Premier League
+Manchester City,-12.0,2.4,2025-11-02,Premier League
+Manchester City,-11.0,2.4,2025-11-09,Premier League
+Manchester City,-10.0,1.8,2025-11-22,Premier League
+Manchester City,-9.0,1.8,2025-11-29,Premier League
+Manchester City,-8.0,2.4,2025-12-02,Premier League
+Manchester City,-7.0,2.4,2025-12-06,Premier League
+Manchester City,-6.0,2.4,2025-12-14,Premier League
+Manchester City,-5.0,3.0,2025-12-20,Premier League
+Manchester City,-4.0,3.0,2025-12-27,Premier League
+Manchester City,-3.0,2.6,2026-01-01,Premier League
+Manchester City,-2.0,2.2,2026-01-04,Premier League
+Manchester City,-1.0,1.8,2026-01-07,Premier League
+Manchester City,0.0,1.2,2026-01-17,Premier League
+Manchester City,1.0,1.2,2026-01-24,Premier League
+Manchester City,2.0,1.2,2026-02-01,Premier League
+Manchester City,3.0,1.6,2026-02-08,Premier League
+Manchester City,4.0,2.0,2026-02-11,Premier League
+Manchester City,5.0,2.6,2026-02-21,Premier League
+Manchester City,6.0,2.6,2026-02-28,Premier League
+Manchester City,7.0,2.6,2026-03-04,Premier League
+Manchester City,8.0,2.2,2026-03-14,Premier League
+Manchester City,9.0,2.2,2026-04-12,Premier League
+Manchester City,10.0,2.2,2026-04-19,Premier League
+Manchester City,11.0,2.2,2026-04-22,Premier League
+Manchester City,12.0,2.2,2026-05-04,Premier League
+Manchester City,13.0,2.6,2026-05-09,Premier League
+Manchester City,14.0,2.6,2026-05-13,Premier League
+Manchester City,15.0,2.2,2026-05-19,Premier League
+Manchester City,16.0,1.6,2026-05-24,Premier League
+PSG,-12.0,2.4,2025-09-27,Ligue 1
+PSG,-11.0,2.0,2025-10-05,Ligue 1
+PSG,-10.0,1.6,2025-10-17,Ligue 1
+PSG,-9.0,1.6,2025-10-25,Ligue 1
+PSG,-8.0,1.8,2025-10-29,Ligue 1
+PSG,-7.0,1.8,2025-11-01,Ligue 1
+PSG,-6.0,2.2,2025-11-09,Ligue 1
+PSG,-5.0,2.6,2025-11-22,Ligue 1
+PSG,-4.0,2.0,2025-11-29,Ligue 1
+PSG,-3.0,2.4,2025-12-06,Ligue 1
+PSG,-2.0,2.4,2025-12-13,Ligue 1
+PSG,-1.0,2.4,2026-01-04,Ligue 1
+PSG,0.0,2.4,2026-01-16,Ligue 1
+PSG,1.0,3.0,2026-01-23,Ligue 1
+PSG,2.0,3.0,2026-02-01,Ligue 1
+PSG,3.0,3.0,2026-02-08,Ligue 1
+PSG,4.0,2.4,2026-02-13,Ligue 1
+PSG,5.0,2.4,2026-02-21,Ligue 1
+PSG,6.0,2.4,2026-02-28,Ligue 1
+PSG,7.0,1.8,2026-03-06,Ligue 1
+PSG,8.0,1.8,2026-03-21,Ligue 1
+PSG,9.0,2.4,2026-04-03,Ligue 1
+PSG,10.0,1.8,2026-04-19,Ligue 1
+PSG,11.0,1.8,2026-04-22,Ligue 1
+PSG,12.0,2.4,2026-04-25,Ligue 1
+PSG,13.0,2.0,2026-05-02,Ligue 1
+PSG,14.0,2.0,2026-05-10,Ligue 1
+PSG,15.0,2.6,2026-05-13,Ligue 1
+PSG,16.0,2.0,2026-05-17,Ligue 1
+Real Madrid,-12.0,2.4,2025-10-04,La Liga
+Real Madrid,-11.0,2.4,2025-10-19,La Liga
+Real Madrid,-10.0,2.4,2025-10-26,La Liga
+Real Madrid,-9.0,2.4,2025-11-01,La Liga
+Real Madrid,-8.0,2.6,2025-11-09,La Liga
+Real Madrid,-7.0,2.2,2025-11-23,La Liga
+Real Madrid,-6.0,1.8,2025-11-30,La Liga
+Real Madrid,-5.0,1.8,2025-12-03,La Liga
+Real Madrid,-4.0,1.2,2025-12-07,La Liga
+Real Madrid,-3.0,1.6,2025-12-14,La Liga
+Real Madrid,-2.0,2.0,2025-12-20,La Liga
+Real Madrid,-1.0,2.4,2026-01-04,La Liga
+Real Madrid,0.0,2.4,2026-01-17,La Liga
+Real Madrid,1.0,3.0,2026-01-24,La Liga
+Real Madrid,2.0,3.0,2026-02-01,La Liga
+Real Madrid,3.0,3.0,2026-02-08,La Liga
+Real Madrid,4.0,3.0,2026-02-14,La Liga
+Real Madrid,5.0,2.4,2026-02-21,La Liga
+Real Madrid,6.0,1.8,2026-03-02,La Liga
+Real Madrid,7.0,1.8,2026-03-06,La Liga
+Real Madrid,8.0,1.8,2026-03-14,La Liga
+Real Madrid,9.0,1.8,2026-03-22,La Liga
+Real Madrid,10.0,1.8,2026-04-04,La Liga
+Real Madrid,11.0,2.0,2026-04-10,La Liga
+Real Madrid,12.0,2.0,2026-04-21,La Liga
+Real Madrid,13.0,1.6,2026-04-24,La Liga
+Real Madrid,14.0,1.6,2026-05-03,La Liga
+Real Madrid,15.0,1.6,2026-05-10,La Liga
+Real Madrid,16.0,2.0,2026-05-14,La Liga
